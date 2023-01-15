@@ -4,7 +4,7 @@ import urllib.request
 URL = "https://api.thingspeak.com/update"
 
 # copy the API KEY from your ThingSpeak channel
-APIKEY = "TJ6OY7WNN6QI5JFS"
+APIKEY = ""
 
 # copy the port from your Arduino editor
 PORT = 'COM3'
